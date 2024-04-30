@@ -7,6 +7,17 @@
   pointer-events: none;
 }
 
+button {
+  background-color: #EC2127; 
+  border: none;
+  color: rgb(255, 255, 255);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
 
 }
@@ -22,6 +33,17 @@
   color: white;
 }
 
+Body {
+  background-color: #1e1100;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #EC2127;
+}
+
 .App-link {
   color: #61dafb;
 }
@@ -33,4 +55,6 @@
   to {
     transform: rotate(360deg);
   }
+
+  
 }

@@ -9,12 +9,7 @@ function Home() {
         <p>
           Welcome to D AND DAPI GEN! An API-Based D and D Randomized Character Creator.
         </p>
-        Create your very own Dungeons and Dragons Character in Seconds
-        <a
-        href="creator.html"
-        >
-          HERE
-        </a>
+        Click the ABOUT Button to Start Creating your very own Dungeons and Dragons Character in Seconds!
       </header>
     </div>
   );
